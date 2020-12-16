@@ -143,7 +143,7 @@ an external chain by generating a new address.
 
 ==Examples==
 
-
+|{
 |network
 |account
 |script
@@ -262,6 +262,7 @@ an external chain by generating a new address.
 |change
 |second
 |m / 48 h / 1' / 1' / 2' / 1 / 1
+|}
 
 
 ==Reference==
