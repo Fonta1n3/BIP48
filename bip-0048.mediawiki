@@ -89,9 +89,9 @@ The recommended default is pay to witness script hash `m/48'/0'/0'/2'`.
 
 The following represent mainnet, account 0.
 
-`1'`: Nested Segwit (p2sh-p2wsh) `m/48'/0'/0'/1'`</br>
-`2'`: Native Segwit (p2wsh) `m/48'/0'/0'/2'`</br>
-`3'`: Legacy (p2sh) `m/48'/0'/0'/3'`</br>
+<code>1'</code>: Nested Segwit (p2sh-p2wsh) `m/48'/0'/0'/1'`</br>
+<code>2'</code>: Native Segwit (p2wsh) `m/48'/0'/0'/2'`</br>
+<code>3'</code>: Legacy (p2sh) `m/48'/0'/0'/3'`</br>
 
 Easily expanded to account for new script types.
 
